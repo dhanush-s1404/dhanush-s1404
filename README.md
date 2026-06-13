@@ -167,8 +167,6 @@ print(me.motto())
 | 🤖 | AI-Powered Code Review System | Built end-to-end from Nov 2025 – Mar 2026 |
 | 🌐 | Portfolio Website | Designed & deployed a fully responsive site with HTML & CSS |
 | 🎉 | Quiz Event Coordinator | Successfully organized & managed multiple college quiz competitions |
-| 🌍 | Bilingual | Fluent in Tamil & English |
-
 </div>
 
 ---
