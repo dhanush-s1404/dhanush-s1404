@@ -1,5 +1,5 @@
 <a href="https://github.com/dhanush-s1404">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanush%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BCA%20Student%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHANUSH%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BCA%20Student%20%7C%20AI%20Enthusiast%20%7C%20quick%20Learner&descAlignY=62&descSize=16" />
 </a>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 class DhanushS:
     def __init__(self):
-        self.name         = "Dhanush S"
+        self.name         = "DHANUSH"
         self.location     = "Erode, Tamilnadu, India"
         self.degree       = "Bachelor of Computer Applications (BCA)"
         self.college      = "Hindusthan College of Science and Commerce"
